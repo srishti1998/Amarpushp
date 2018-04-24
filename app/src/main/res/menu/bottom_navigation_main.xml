@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:enabled="true"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/key_projects"
+        android:enabled="true"
+        android:title="Key Projects" />
+
+
+    <item
+        android:id="@+id/career"
+        android:enabled="true"
+        android:title=" Career" />
+
+    <item
+        android:id="@+id/donate"
+        android:enabled="true"
+        android:title="Donate" />
+
+
+</menu>

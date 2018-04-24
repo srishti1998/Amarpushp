@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:title="HOME"/>
+        <item
+            android:id="@+id/about_org"
+            android:title="About Amarpushp"
+            />
+        <item
+            android:id="@+id/gallery"
+            android:title="Image Gallery"
+            />
+        <item
+            android:id="@+id/videos"
+            android:title="Videos"
+            />
+    </group>
+
+</menu>
